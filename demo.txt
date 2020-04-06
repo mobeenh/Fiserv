@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 firstline
 second line
 third lne
@@ -5,3 +6,12 @@ fourth line
 fifth line
 sixth line
 sevemth line
+=======
+firstline
+second line
+third lne
+fourth line
+fifth line
+sixth line
+sevemth line
+>>>>>>> fc6cd26aa80f1b577da0639ab0eb9a4ab361606b
